@@ -1,0 +1,12 @@
+2025-02-05 21:24:40,875 :INFO :pyTestDemo.test_logging :info statement
+2025-02-05 21:24:40,875 :WARNING :pyTestDemo.test_logging :something is in warning mode
+2025-02-05 21:24:40,875 :ERROR :pyTestDemo.test_logging :error occurs
+2025-02-05 21:24:40,875 :CRITICAL :pyTestDemo.test_logging :critical
+2025-02-05 21:52:22,333 :INFO :pyTestDemo.test_logging :info statement
+2025-02-05 21:52:22,333 :WARNING :pyTestDemo.test_logging :something is in warning mode
+2025-02-05 21:52:22,333 :ERROR :pyTestDemo.test_logging :error occurs
+2025-02-05 21:52:22,333 :CRITICAL :pyTestDemo.test_logging :critical
+2025-02-05 21:52:44,500 :INFO :pyTestDemo.baseClass :neha
+2025-02-05 21:52:44,501 :INFO :pyTestDemo.baseClass :26
+2025-02-05 22:02:43,499 :INFO :test_editProfile :neha
+2025-02-05 22:02:43,499 :INFO :test_editProfile :26
